@@ -1,62 +1,103 @@
-<div align="center">
-
-# Prakash Raj A
-
-### AIML Engineer & Full Stack Developer
+<h1 align="center">
+  Hi 👋, I'm Prakash Raj
+</h1>
 
 <p align="center">
-  <a href="https://github.com/prakash-2409">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/prakash-raj-a-460a19325/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:aprakashraj602@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;DSA+Focused+Developer;Building+Impactful+Products" />
 </p>
 
-<br>
+---
 
-<p align="center" width="80%">
-  I am a <b>BTech in AIML</b> student at St. Joseph's Engineering College and an aspiring <b>Full-Stack Developer</b>. I am passionate about building innovative solutions using AI/ML and web technologies.
+## 🚀 About Me
+- 🎓 2nd Year CSE Student  
+- 💻 Strong focus on **Data Structures & Algorithms**  
+- 🔥 Currently mastering **JavaScript, Python & C**  
+- 🧠 Building real-world projects & startup ideas  
+- 🚀 Mission: Crack top placements + build scalable SaaS  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🌐 Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakash-2409&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-2409&theme=tokyonight" />
 </p>
 
-<br>
-<hr>
-<br>
+---
 
-<h2>Technical Arsenal</h2>
+## 🧠 LeetCode Stats
 
-<br>
-
-<h3>Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prakash_2406?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
-<br>
+---
 
-<h3>AI, ML & Data Science</h3>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  </p>
+## 🚀 Featured Projects
 
-<br>
+### 🔹 Daily Task Tracker
+- 📊 Visual productivity dashboard  
+- 🧠 Notion-style flexible task system  
+- ⚡ Built for consistency & habit tracking  
 
-<h3>Tools & Frameworks</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+### 🔹 Notion++ (Personal OS)
+- 🧩 Tasks + Notes + Planner + Mood Tracker  
+- ☁️ Firebase backend  
+- 🧠 Designed as all-in-one productivity system  
+
+### 🔹 Asli Dawa (Startup)
+- 💊 AI-powered counterfeit medicine detection  
+- 📷 Computer Vision + QR verification  
+- 🇮🇳 Solving fake drug problem in India  
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash-2409&theme=tokyo-night" />
 </p>
 
-</div>
+---
+
+## 🌐 Connect With Me
+
+- 💻 GitHub: https://github.com/prakash-2409/
+- 🧠 LeetCode: https://leetcode.com/u/Prakash_2406/
+- 💼 LinkedIn: 
+- 📧 Email: (add your mail)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prakash-2409/prakash-2409/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Mindset
+> I don’t just write code — I build systems, products, and ideas that scale 🚀
