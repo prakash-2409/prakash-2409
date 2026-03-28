@@ -55,23 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Daily Task Tracker
-- 📊 Visual productivity dashboard  
-- 🧠 Notion-style flexible task system  
-- ⚡ Built for consistency & habit tracking  
-
-### 🔹 Notion++ (Personal OS)
-- 🧩 Tasks + Notes + Planner + Mood Tracker  
-- ☁️ Firebase backend  
-- 🧠 Designed as all-in-one productivity system  
-
-### 🔹 Asli Dawa (Startup)
-- 💊 AI-powered counterfeit medicine detection  
-- 📷 Computer Vision + QR verification  
-- 🇮🇳 Solving fake drug problem in India  
-
 ---
 
 ## 📈 Contribution Graph
