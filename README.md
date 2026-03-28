@@ -37,16 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash-2409&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-2409&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
