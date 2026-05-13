@@ -8,13 +8,7 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 2nd Year CSE Student  
-- 💻 Strong focus on **Data Structures & Algorithms**  
-- 🔥 Currently mastering **JavaScript, Python & C**  
-- 🧠 Building real-world projects & startup ideas  
-- 🚀 Mission: Crack top placements + build scalable SaaS  
-
+#
 ---
 
 ## 🛠️ Tech Stack
