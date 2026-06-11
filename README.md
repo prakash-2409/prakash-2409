@@ -36,9 +36,8 @@
 
 | Project | Live Interface | Architecture Focus |
 | :--- | :--- | :--- |
-| **GymOS** | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="UI demo"> | MERN Stack. Kiosk-based check-in system. Custom UI built completely from scratch. |
-| **VeriShield** | <img src="https://media.giphy.com/media/VwRZ1L2t5Nf1iL1r9g/giphy.gif" width="200" alt="AI demo"> | PyTorch / Deep Learning. Distinguishes between AI-generated and organic media. |
-| **SCAF-DSS** | <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200" alt="Drone demo"> | Drone & AI precision agriculture framework. |
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="UI demo"> 
+
 
 ---
 
