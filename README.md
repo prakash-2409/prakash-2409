@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">
-  Hi 👋, I'm Prakash Raj (Manicks)
+  Hi 👋, I'm Prakash Raj A
+  
 </h1>
 
 <p align="center">
