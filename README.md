@@ -57,6 +57,10 @@ I am an engineering student at St. Joseph’s College of Engineering in Chennai,
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-globe.vercel.app/api?username=prakash-2409&color=00F7FF" />
+</p>
+
 ## 🐍 Consistency Loop
 
 <p align="center">
