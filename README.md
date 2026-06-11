@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="100%" />
-</div>
 
 <h1 align="center">
   Hi 👋, I'm Prakash Raj A
